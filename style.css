@@ -266,13 +266,13 @@ div:nth-child(15) {
 }
 @keyframes scale {
   0% {
-    transform: translateX(10px);
+    transform: scale(1);
   }
   50% {
-    transform:translateX(20px);
+    transform: scale(2);
   }
   100% {
-    transform:translateX(10px);
+    transform: scale(1);
   }
 }
 @keyframes translateX {
