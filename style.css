@@ -253,18 +253,18 @@ div:nth-child(15) {
     transform:scaleY(1x);
   }
 }
-@keyframes translateX {
+@keyframes scaleZ {
   0% {
-    transform: translateX(10px);
+    transform: scaleZ(1);
   }
   50% {
-    transform:translateX(20px);
+    transform: scaleZ(2);
   }
   100% {
-    transform:translateX(10px);
+    transform: scaleZ(1);
   }
 }
-@keyframes translateX {
+@keyframes scale {
   0% {
     transform: translateX(10px);
   }
