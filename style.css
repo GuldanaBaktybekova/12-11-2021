@@ -29,16 +29,16 @@ div:nth-child(3):hover {
   transform: skew(-30deg);
 }
 div:nth-child(4):hover {
-  transform: translateX(10%);
+  transform: translateX(10px);
 }
 div:nth-child(5):hover {
-  transform: translateY(10%);
+  transform: translateY(10px);
 }
 div:nth-child(6):hover {
-  transform: translateZ(15%);
+  transform: translateZ(15px);
 }
 div:nth-child(7):hover {
-  transform: translate(20%);
+  transform: translate(20px);
 }
 div:nth-child(8):hover {
   transform: rotateX(300deg);
