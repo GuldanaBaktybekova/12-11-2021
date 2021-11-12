@@ -231,15 +231,15 @@ div:nth-child(15) {
     transform: rotate(0deg);
   }
 }
-@keyframes translateX {
+@keyframes scaleX {
   0% {
-    transform: translateX(10px);
+    transform: scaleX(1);
   }
   50% {
-    transform:translateX(20px);
+    transform: scaleX(2);
   }
   100% {
-    transform:translateX(10px);
+    transform: scaleX(1);
   }
 }
 @keyframes translateX {
