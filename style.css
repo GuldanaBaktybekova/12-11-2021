@@ -275,36 +275,3 @@ div:nth-child(15) {
     transform: scale(1);
   }
 }
-@keyframes translateX {
-  0% {
-    transform: translateX(10px);
-  }
-  50% {
-    transform:translateX(20px);
-  }
-  100% {
-    transform:translateX(10px);
-  }
-}
-@keyframes translateX {
-  0% {
-    transform: translateX(10px);
-  }
-  50% {
-    transform:translateX(20px);
-  }
-  100% {
-    transform:translateX(10px);
-  }
-}
-@keyframes translateX {
-  0% {
-    transform: translateX(10px);
-  }
-  50% {
-    transform:translateX(20px);
-  }
-  100% {
-    transform:translateX(10px);
-  }
-}
