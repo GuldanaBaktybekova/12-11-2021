@@ -59,9 +59,9 @@ div {
     margin-top: 0;
   }
   50% {
-    transform: translateY(500px);
+    transform: translateY(100px);
     right: 0;
-    top: 0;
+    top: 100%;
     bottom: 0;
     
   }
