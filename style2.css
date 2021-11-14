@@ -64,6 +64,9 @@ div {
     
   }
   75% {
-    
+    left:0;
+    margin-left: 0;
+    top: 100%;
+    margin-top: -100px;
   }
 }
