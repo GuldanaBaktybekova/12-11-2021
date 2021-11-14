@@ -61,6 +61,6 @@ div {
   50% {
     transform: translateY(500px);
     right: 0;
-  
+    bottom: 0;
   }
 }
