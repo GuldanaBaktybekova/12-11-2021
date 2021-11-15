@@ -22,7 +22,7 @@ div {
     margin-left: 0;
   }
   25% {
-    transform: translate(100%);
+    transform: translateX(90%);
 
     right: 0;
     top: 0;
@@ -30,19 +30,19 @@ div {
   }
 
   50% {
-    transform: translate(0, 100%);
+    transform: translateY(90%);
     left: 100%;
     bottom: 0;
   }
   75% {
-    transform: translate(-100%);
+    transform: translateX(-90%);
     right: 100%;
     
     top: 100%;
     margin-top: -100px;
   }
   100% {
-    transform: translate(0, -100%);
+    transform: translateY(-90%);
     right: 100%;
    
     bottom: 100%;
